@@ -3,7 +3,7 @@
 ## Description
 shell script 연습
 
-## Rerence
+## Reference
 - [Learn Shell](https://www.learnshell.org/)
 
 ## Index
