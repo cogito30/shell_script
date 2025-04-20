@@ -1,7 +1,7 @@
 # Shell Script
 
 ## Description
-shell script 연습
+bash shell script 연습
 
 ## Reference
 - [Learn Shell](https://www.learnshell.org/)
